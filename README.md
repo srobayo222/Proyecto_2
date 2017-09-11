@@ -1,2 +1,3 @@
 # Proyecto_2
-# Proyecto_2
+npm instal
+node app
