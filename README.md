@@ -1,4 +1,4 @@
 # Proyecto_2
-npm instal
+npm install
 
 node app
