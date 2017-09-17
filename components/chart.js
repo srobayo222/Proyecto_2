@@ -14,7 +14,7 @@ class Chart extends Component{
 
 
 
-		static defaultProps = {
+		static defaultProps ={
 			displayTitle : true,
 			displayLegend: true,
 			legendPosition: 'right',
