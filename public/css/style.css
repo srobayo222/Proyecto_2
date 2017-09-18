@@ -2,8 +2,11 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+<<<<<<< HEAD
   width:1060px;
   margin:50px auto;
+=======
+>>>>>>> c7096e862d76a9134295781e2fd21be28e529573
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -86,6 +89,7 @@ body {
 
 footer{
   margin-top:40px;
+<<<<<<< HEAD
 }
 /*lo nuevo */
 path {  stroke: #fff; }
@@ -116,4 +120,6 @@ rect:hover {  fill:blue; }
 .legendFreq, .legendPerc{
     align:right;
     width:50px;
+=======
+>>>>>>> c7096e862d76a9134295781e2fd21be28e529573
 }
