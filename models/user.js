@@ -1,3 +1,7 @@
+
+//Este documento no se entiende como parte de backend y por tanto no debe conocer como acceder a la base de datos.
+//Cumple funciones del back intentando imitar una nomenclatura de react. No react components was found.
+
 var mongoose = require('mongoose');
 var bcrypt = require('bcryptjs');
 
