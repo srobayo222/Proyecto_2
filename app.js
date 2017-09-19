@@ -1,3 +1,5 @@
+
+//Deberia usar algun tipo de constante para no dejar quemados login y contraseña de la db.
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
