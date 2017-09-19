@@ -9,6 +9,7 @@ var session = require('express-session');
 var passport = require('passport');
 var LocalStrategy = require('passport-local').Strategy;
 var mongo = require('mongodb');
+//Para esta entrega no era posible usar mongoose
 var mongoose = require('mongoose');
 
 mongoose.connect('mongodb://zantler:Masita007@ds121464.mlab.com:21464/project_2');
