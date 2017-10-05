@@ -1,3 +1,6 @@
+//Buen manejo de la base de datos.
+//No se entiende la diferencia entre los componentes. Se utiliza handlebars para precargar los html estaticos desde el lado del servidor
+// El back debe enviar de alguna forma (Json) la informacion al front de parte de la persistencia.
 var express = require('express');
 var router = express.Router();
 var passport = require('passport');
